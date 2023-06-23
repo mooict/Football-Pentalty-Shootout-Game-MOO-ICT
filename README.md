@@ -12,7 +12,7 @@ Using image sprites and changing the goal keepers state within the game
 Using various data types such as Integers, Booleans, Strings and List to make the game work
 Using windows form components such as Picture Boxes, Timers and Labels to complete the game
 
-# Video Tutorial - Click below to Watch this video no YouTube
+# Video Tutorial - Click below to Watch this video on YouTube
 
 [![](http://img.youtube.com/vi/V3AAh5UYlIg/0.jpg)](https://www.youtube.com/watch?v=V3AAh5UYlIg "MOO ICT C# Tutorial Video Tutorial")
 
